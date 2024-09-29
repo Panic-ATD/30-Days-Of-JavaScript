@@ -1,4 +1,4 @@
-/** 2634. Filter Elements from Array
+/** 2634. Filter Elements from Array, This function filters elements from an array based on a provided callback function (fn), iterating through the array and pushing elements that satisfy the condition into a new array.
  * @param {number[]} arr
  * @param {Function} fn
  * @return {number[]}
